@@ -1,6 +1,8 @@
 
 基于Python3 和django django 2.0构建MySQL dbpaas
 
+##poc页面 请看“MySQL DBPaaS 管理平台使用说明.pdf”
+
 主要技术栈
 
 1、salt
@@ -47,3 +49,4 @@ https://mp.weixin.qq.com/s/m-nKYf6niYk1gzOavoAJxg
 QQ：786376668 
 
 支持人员打包出售、支持单独出售
+
